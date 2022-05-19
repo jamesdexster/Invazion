@@ -18,8 +18,8 @@ body {
 
 .navigation {
     display: flex;
-    justify-content: center;
     background-color: white;
+    justify-content: center;
 }
 
 .solidbar2 {
@@ -235,3 +235,5 @@ footer {
     right: 0;
     left: 0;
 }
+
+

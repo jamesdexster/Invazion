@@ -225,3 +225,13 @@ input[type=submit]:hover {
 .contactmsg {
     margin-top: 2em;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}

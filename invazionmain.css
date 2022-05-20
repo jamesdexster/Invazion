@@ -228,8 +228,8 @@ input[type=submit]:hover {
 
 footer {
     background-color: black;
-    color: white;
     height: 2.5em;
+    color: white;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -237,4 +237,10 @@ footer {
     left: 0;
 }
 
+.gametitle a {
+    display: flex;
+    max-height: 8em;
+    background-color: white;
+    text-decoration: none;
+}
 
